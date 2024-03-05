@@ -1,4 +1,4 @@
-💳 Credit Score Classification with Machine Learning 📊
+# 💳 Credit Score Classification with Machine Learning 📊
 
 💡 Project Overview
 Credit score classification is a crucial aspect in the financial sector to assess individuals' creditworthiness. This project involves developing a machine learning model to classify credit scores based on various features. The primary goal is to provide accurate predictions that assist credit institutions in making informed credit decisions.
