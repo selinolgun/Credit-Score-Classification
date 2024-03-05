@@ -178,7 +178,6 @@ soupsieve==2.5
 stack-data==0.6.3
 statsmodels==0.14.1
 tenacity==8.2.3
-tensorboard==2.15.1
 tensorboard-data-server==0.7.2
 termcolor==2.4.0
 terminado==0.18.0
