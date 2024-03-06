@@ -63,7 +63,6 @@ hvplot==0.7.3
 idna==3.6
 importlib-metadata==7.0.1
 ipykernel==6.29.0
-ipython==8.20.0
 ipywidgets==8.1.1
 isoduration==20.11.0
 jedi==0.19.1
@@ -116,7 +115,6 @@ oauthlib==3.2.2
 openpyxl==3.1.2
 opt-einsum==3.3.0
 optbinning==0.19.0
-ortools==9.8.3296
 osqp==0.6.3
 overrides==7.7.0
 packaging==23.2
@@ -132,7 +130,6 @@ platformdirs==4.1.0
 plotly==5.18.0
 prometheus-client==0.19.0
 prompt-toolkit==3.0.43
-protobuf==4.25.2
 psutil==5.9.8
 pure-eval==0.2.2
 pyamg==5.0.1
@@ -151,8 +148,6 @@ python-docx==0.8.10
 python-json-logger==2.0.7
 pytz==2023.4
 pyviz_comms==3.0.1
-pywin32==306
-pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.2
 qdldl==0.1.7.post0
@@ -183,12 +178,7 @@ soupsieve==2.5
 stack-data==0.6.3
 statsmodels==0.14.1
 tenacity==8.2.3
-tensorboard==2.15.1
 tensorboard-data-server==0.7.2
-tensorflow==2.15.0
-tensorflow-estimator==2.15.0
-tensorflow-intel==2.15.0
-tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 terminado==0.18.0
 textblob==0.17.1
